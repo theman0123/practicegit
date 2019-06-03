@@ -1,1 +1,2 @@
 hello
+mama, this is file2
